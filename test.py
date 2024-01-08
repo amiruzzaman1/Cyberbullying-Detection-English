@@ -1,6 +1,5 @@
 import streamlit as st
 import pickle
-from sklearn.feature_extraction.text import TfidfVectorizer
 
 # Load the trained model
 model_filename = 'trained_model.sav'
