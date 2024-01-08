@@ -82,7 +82,7 @@ def predict_cyberbullying_and_filter_bad_words(text):
     return prediction[0], filtered_text, bad_words
 
 # Create a Streamlit app
-st.title("Cyberbullying Detection App")
+st.title("Cyberbullying Detection App (English)")
 
 # Add a text input field
 user_input = st.text_area("Enter text:", "")
