@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository hosts a Cyberbullying Detection App designed to identify instances of cyberbullying in English text. The app incorporates a diverse set of machine learning and deep learning algorithms, including BERT, Random Forest (RF), Support Vector Machine (SVM), Decision Tree (DT), Multi-Layer Perceptron (MLP), and others.
+A Cyberbullying Detection App designed to identify instances of cyberbullying in English text. The app incorporates a diverse set of machine learning and deep learning algorithms, including BERT, Random Forest (RF), Support Vector Machine (SVM), Decision Tree (DT), Multi-Layer Perceptron (MLP), and others.
 
 ## Key Features
 
