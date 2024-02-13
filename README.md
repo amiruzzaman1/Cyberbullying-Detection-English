@@ -37,10 +37,10 @@ The English dataset for this cyberbullying detection app employs multi-class cla
 
 ### Live Site
 
-You can also access the live version of the app on [Hugging Face Spaces](https://huggingface.co/spaces/Amiruzzaman/cbEnglish).
+You can also access the live version of the app on [Click Here](https://huggingface.co/spaces/Amiruzzaman/cbEnglish).
 
 
-### Streamlit App in Action
+### Streamlit App in Action (Results)
 #### Cyberbullying
 ![image](https://github.com/amiruzzaman1/Cyberbullying-Detection-English/assets/68743925/a8f3d338-a49f-4c6f-b17b-fc4e872dde08)
 
