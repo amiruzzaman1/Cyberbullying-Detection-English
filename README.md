@@ -41,9 +41,10 @@ You can also access the live version of the app on [Hugging Face Spaces](https:/
 
 
 ### Streamlit App in Action
+#### Cyberbullying
 ![image](https://github.com/amiruzzaman1/Cyberbullying-Detection-English/assets/68743925/a8f3d338-a49f-4c6f-b17b-fc4e872dde08)
 
-
+#### Not Cyberbullying
 ![image](https://github.com/amiruzzaman1/Cyberbullying-Detection-English/assets/68743925/62caffc8-15e0-4c58-809a-e487f2b3498f)
 
 
